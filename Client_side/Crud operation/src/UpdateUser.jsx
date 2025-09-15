@@ -21,7 +21,7 @@ function UpdateUser() {
     .catch(err => console.log(err))
   } , []);
 
-
+ 
   const update = (e) => {
     e.preventDefault();
     axios.put("http://localhost:3000/updateUser/"+id , {

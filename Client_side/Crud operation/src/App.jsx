@@ -10,8 +10,8 @@ function App() {
   const [count, setCount] = useState(0)
 
   return (
-    <div>
-      <BrowserRouter>
+    <div> 
+      <BrowserRouter> 
         <Routes>
           <Route path='/' element = {<Users />}></Route>
           <Route path='/create' element = {<CreateUser />}></Route>

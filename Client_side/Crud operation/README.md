@@ -1,3 +1,5 @@
+⭐ If you found this project helpful, please consider giving it a star on GitHub!
+
 # 🧾 MERN Stack CRUD Application
 
 [![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white)]()
@@ -60,6 +62,10 @@ I would like to express my heartfelt gratitude to **Muhamad Aqib**, my mentor, f
 
 ## 📸 Screenshot
 
+![App Screenshot](./assets/Add_user.png)
+![App Screenshot](./assets/Main.PNG)
+![App Screenshot](./assets/Update_user.png)
+
 
 ---
 
@@ -85,4 +91,3 @@ npm start
 
 ---
 
-⭐ If you found this project helpful, please consider giving it a star on GitHub!

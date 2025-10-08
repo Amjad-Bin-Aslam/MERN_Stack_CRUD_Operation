@@ -62,9 +62,9 @@ I would like to express my heartfelt gratitude to **Muhamad Aqib**, my mentor, f
 
 ## 📸 Screenshot
 
-(./Client_side/Crud%20operation/src/assets/Add_user.png)
-(./Client_side/Crud%20operation/src/assets/Main.PNG)
-(./Client_side/Crud%20operation/src/assets/Update_user.png)
+![App Screenshot](./Client_side/Crud%20operation/src/assets/Add_user.png)
+![App Screenshot](./Client_side/Crud%20operation/src/assets/Main.PNG)
+![App Screenshot](./Client_side/Crud%20operation/src/assets/Update_user.png)
  
 
 ---

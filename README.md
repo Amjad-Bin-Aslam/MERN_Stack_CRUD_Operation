@@ -10,6 +10,7 @@
 
 ---
 
+<<<<<<< HEAD
 ## 📬 Contact
 
 Developer: Muhammad Amjad
@@ -22,6 +23,8 @@ GitHub: https://github.com/Amjad-Bin-Aslam
 
 
 
+=======
+>>>>>>> e8c84e448c272aa67a23cc4096aaa91185d1da0c
 ## 📖 Project Description
 
 This project is a **MERN Stack CRUD Application** built using **MongoDB, Express.js, React.js, Node.js, and Tailwind CSS**.  
@@ -74,10 +77,17 @@ I would like to express my heartfelt gratitude to **Muhamad Aqib**, my mentor, f
 
 ## 📸 Screenshot
 
+<<<<<<< HEAD
 ![App Screenshot](./assets/Add_user.png)
 ![App Screenshot](./assets/Main.PNG)
 ![App Screenshot](./assets/Update_user.png)
 
+=======
+![App Screenshot](./Client_side/Crud%20operation/src/assets/Add_user.png)
+![App Screenshot](./Client_side/Crud%20operation/src/assets/Main.PNG)
+![App Screenshot](./Client_side/Crud%20operation/src/assets/Update_user.png)
+ 
+>>>>>>> e8c84e448c272aa67a23cc4096aaa91185d1da0c
 
 ---
 
@@ -103,4 +113,7 @@ npm start
 
 ---
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> e8c84e448c272aa67a23cc4096aaa91185d1da0c

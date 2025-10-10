@@ -10,7 +10,6 @@
 
 ---
 
-<<<<<<< HEAD
 ## 📬 Contact
 
 Developer: Muhammad Amjad
@@ -21,10 +20,8 @@ LinkedIn: https://www.linkedin.com/in/amjad-bin-aslam-58813530b
 
 GitHub: https://github.com/Amjad-Bin-Aslam
 
+---
 
-
-=======
->>>>>>> e8c84e448c272aa67a23cc4096aaa91185d1da0c
 ## 📖 Project Description
 
 This project is a **MERN Stack CRUD Application** built using **MongoDB, Express.js, React.js, Node.js, and Tailwind CSS**.  
